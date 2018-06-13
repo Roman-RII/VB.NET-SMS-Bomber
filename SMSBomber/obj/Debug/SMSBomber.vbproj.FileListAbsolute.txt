@@ -1,0 +1,12 @@
+c:\users\roman\source\repos\SMSBomber\SMSBomber\bin\Debug\SMSBomber.exe.config
+c:\users\roman\source\repos\SMSBomber\SMSBomber\bin\Debug\SMSBomber.exe
+c:\users\roman\source\repos\SMSBomber\SMSBomber\bin\Debug\SMSBomber.pdb
+c:\users\roman\source\repos\SMSBomber\SMSBomber\bin\Debug\SMSBomber.xml
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.vbprojAssemblyReference.cache
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.form1.resources
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.Resources.resources
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.vbproj.GenerateResource.cache
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.vbproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.exe
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.xml
+c:\users\roman\source\repos\SMSBomber\SMSBomber\obj\Debug\SMSBomber.pdb
